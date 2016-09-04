@@ -64,6 +64,15 @@ a.Extend(b) // a == Middleware1, Middleware2, Middleware3, Middleware4
 handler := a.Handler(http.NewServeMux())
 ```
 
+### HandlerFunc
+``` go
+d := drago.New(Middleware1, Middleware2)
+
+handler := d.HandlerFunc(func(rw http.ResponseWriter, r *http.Request) {
+    fmt.Fprintf(rw, "Welcome!")
+})
+```
+
 ## Third Party Middleware
 
 Here is a current list of Drago compatible middleware :
