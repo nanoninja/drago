@@ -34,7 +34,7 @@ func DemoMiddleware(next http.Handler) http.Handler {
 func main() {
 	mux := http.NewServeMux()
 	mux.HandleFunc("/", func(rw http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(rw, "Welcome to the hom page!")
+		fmt.Fprintf(rw, "Welcome to the home page!")
 	})
 
 	handler := drago.New(DemoMiddleware).Handler(mux)
