@@ -2,7 +2,10 @@
 
 Drago is an idiomatic HTTP Middleware for Go.
 
-[![license](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/nanoninja/drago/blob/master/LICENSE) [![godoc](https://godoc.org/github.com/nanoninja/drago?status.svg)](https://godoc.org/github.com/nanoninja/drago) [![build status](https://travis-ci.org/nanoninja/drago.svg)](https://travis-ci.org/nanoninja/drago)  [![go report card](https://goreportcard.com/badge/github.com/nanoninja/drago)](https://goreportcard.com/report/github.com/nanoninja/drago) [![codebeat](https://codebeat.co/badges/58e89ce4-2fd8-4a93-b624-afdbbb44a6e3)](https://codebeat.co/projects/github-com-nanoninja-drago)
+[![license](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/nanoninja/drago/blob/master/LICENSE) [![godoc](https://godoc.org/github.com/nanoninja/drago?status.svg)](https://godoc.org/github.com/nanoninja/drago)
+[![build status](https://travis-ci.org/nanoninja/drago.svg)](https://travis-ci.org/nanoninja/drago)
+[![Coverage Status](https://coveralls.io/repos/github/nanoninja/drago/badge.svg?branch=master)](https://coveralls.io/github/nanoninja/drago?branch=master)
+[![go report card](https://goreportcard.com/badge/github.com/nanoninja/drago)](https://goreportcard.com/report/github.com/nanoninja/drago) [![codebeat](https://codebeat.co/badges/58e89ce4-2fd8-4a93-b624-afdbbb44a6e3)](https://codebeat.co/projects/github-com-nanoninja-drago)
 
 ## Installation
 
