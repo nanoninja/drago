@@ -83,6 +83,7 @@ Here is a current list of Drago compatible middleware :
 | Middleware | Author | Description |
 | -----------|--------|-------------|
 | [Bulma](https://github.com/nanoninja/bulma) | [Vincent Letourneau](https://github.com/nanoninja) | Basic authentication implementation for Go. |
+| [Goshi](https://github.com/nanoninja/goshi) | [Vincent Letourneau](https://github.com/nanoninja) | Goshi is an extension of http.ResponseWriter written in Go. |
 
 ## License
 
